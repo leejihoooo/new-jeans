@@ -85,7 +85,7 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/shorts/hxXC_bGOel4",
-            "https://www.youtube.com/shorts/hxXC_bGOel4",
+            "https://www.youtube.com/watch?v=9a3CB5RJ7B0",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
