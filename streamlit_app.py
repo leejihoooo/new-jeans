@@ -79,7 +79,7 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://ibb.co/QMmqj84",
+            "https://i.ibb.co/DpbL7v5/1.jpg",
             "https://via.placeholder.com/300?text=Label1_Image2",
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
@@ -113,7 +113,7 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://ibb.co/6Bv9HqP",
+            "https://i.ibb.co/KwN428q/image.jpg",
             "https://via.placeholder.com/300?text=Label3_Image2",
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
