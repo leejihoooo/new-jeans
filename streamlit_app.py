@@ -114,8 +114,8 @@ content_data = {
     labels[2]: {
         'images': [
             "https://i.ibb.co/KwN428q/image.jpg",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/DYp9cBX/2.jpg",
+            "https://i.ibb.co/X54k8v0/3.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
