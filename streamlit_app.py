@@ -89,9 +89,9 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "고양이",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "생일 05.15",
+            "INTP",
+            "강해린은 사랑입니다"
         ]
     },
     labels[1]: {
