@@ -101,14 +101,14 @@ content_data = {
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=7b2Nbr34BW4",
+            "https://www.youtube.com/watch?v=9WUB9LhI0hA",
+            "https://www.youtube.com/watch?v=RA2xM2-6O7I"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "omg 하니 캐리",
+            "팜하니 입덕?",
+            "pocket locket 전설"
         ]
     },
     labels[2]: {
