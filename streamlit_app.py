@@ -84,13 +84,13 @@ content_data = {
             "https://via.placeholder.com/300?text=Label1_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/shorts/hxXC_bGOel4",
+            "https://www.youtube.com/watch?v=vEbPFhNSgzk",
             "https://www.youtube.com/watch?v=9a3CB5RJ7B0",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=efMVbm2jpnQ"
         ],
         'texts': [
-            "생일 05.15",
-            "INTP",
+            "입덕? Tell Me 고양이",
+            "고양이 강해린",
             "강해린은 사랑입니다"
         ]
     },
