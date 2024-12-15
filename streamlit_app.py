@@ -102,7 +102,7 @@ content_data = {
         ],
         'videos': [
             "https://www.youtube.com/watch?v=7b2Nbr34BW4",
-            "https://www.youtube.com/watch?v=9WUB9LhI0hA",
+            "https://www.youtube.com/watch?v=Rj7N4ThLGQY",
             "https://www.youtube.com/watch?v=RA2xM2-6O7I"
         ],
         'texts': [
@@ -118,14 +118,14 @@ content_data = {
             "https://i.ibb.co/X54k8v0/3.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=C0C6wvNl14w",
+            "https://www.youtube.com/watch?v=p1cE9T0CFCQ",
+            "https://www.youtube.com/watch?v=tf-HYTciffM"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "Odoriko 민지 @_@",
+            "전설의 시작",
+            "민지 모음"
         ]
     }
 }
